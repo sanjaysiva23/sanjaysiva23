@@ -54,8 +54,6 @@ Hi, I'm Sanjay Siva!
 	<a href="mailto:sanjusanwins@gmail.com"><img img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/sanjay-s-0184b2212/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/sanjaysiva23"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/></a>
-<!-- 	<a href="https://twitter.com/Nithesh_2303"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a> -->
-<!-- 	<a href="https://www.kaggle.com/bouaskaounmohammed"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a> -->
 </p>
 
 ## 🛠️ My Favorite Tools
@@ -66,7 +64,11 @@ Hi, I'm Sanjay Siva!
     <a href="https://github.com/sanjaysiva23"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"></a>
     <a href="https://github.com/sanjaysiva23"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"></a>
     <a href="https://github.com/sanjaysiva23"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"></a>
+    <a href="https://github.com/sanjaysiva23"><img alt="C Programming" src="https://img.shields.io/badge/C_Programming-0078D7.svg?style=for-the-badge&logo=C&logoColor=white">
+</a>
     <a href="https://github.com/sanjaysiva23"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"></a>
+
+ 
 </p>
 
 ### 🧰 Frameworks and Libraries
@@ -99,32 +101,7 @@ Hi, I'm Sanjay Siva!
 </p>
 </br>
 
-## <a href="https://github.com/sanjaysiva23"><img src="https://icon-library.com/images/statistics-icon/statistics-icon-23.jpg" width="30"></a> GitHub Stats
-<br/>
-<summary><b>⚡ Sanjay's Stats</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/sanjaysiva23">
-	<img width="49.5%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NITHESH2303&theme=blue-green" alt="NITHESH2303">
-	<br/><br/>
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NITHESH2303&theme=blue-green" alt="NITHESH2303">
-	</a>
-	<br/>
-</p>
-<br/>
-<summary><b>⚡ Top Languages</b></summary>
-<br/>
 
-<p align="center">
-	<a href="https://github.com/sanjaysiva23">
-<!-- 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITHESH2303&langs_count=8&layout=compact&theme=blue-green" alt="NITHESH2303"> -->
-	<a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NITHESH2303&theme=react&line_height=40&hide=css"/></a>
-	</a>
-	<br/>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-<br/>
 
 <br/>
 
@@ -136,7 +113,7 @@ Hi, I'm Sanjay Siva!
 	<br/>
 </p>
 
-## <a href="https://github.com/sanjaysiva23"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/leetcode_logo_icon_145113.png" width="30"></a> Geekforgeeks Stats
+## <a href="https://github.com/sanjaysiva23"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/leetcode_logo_icon_145113.png" width="30"></a> Leetcode Stats
 <p align="center">
 	<a href="https://leetcode.com/Sanjay_San/">
 	<a href="https://imgbb.com/"><img src="https://i.ibb.co/th6wmDx/leetcode.png" alt="leetcode" border="0"></a>
@@ -161,7 +138,7 @@ Hi, I'm Sanjay Siva!
 
 
 <!--
-**NITHESH2303/NITHESH2303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sanjaysiva23/sanjaysiva23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
