@@ -99,7 +99,7 @@ Hi, I'm Sanjay Siva!
 </p>
 </br>
 
-## <a href="https://github.com/NITHESH2303"><img src="https://icon-library.com/images/statistics-icon/statistics-icon-23.jpg" width="30"></a> GitHub Stats
+## <a href="https://github.com/sanjaysiva23"><img src="https://icon-library.com/images/statistics-icon/statistics-icon-23.jpg" width="30"></a> GitHub Stats
 <br/>
 <summary><b>⚡ Sanjay's Stats</b></summary>
 <br/>
@@ -116,7 +116,7 @@ Hi, I'm Sanjay Siva!
 <br/>
 
 <p align="center">
-	<a href="https://github.com/NITHESH2303">
+	<a href="https://github.com/sanjaysiva23">
 <!-- 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITHESH2303&langs_count=8&layout=compact&theme=blue-green" alt="NITHESH2303"> -->
 	<a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NITHESH2303&theme=react&line_height=40&hide=css"/></a>
 	</a>
@@ -128,10 +128,18 @@ Hi, I'm Sanjay Siva!
 
 <br/>
 
-## <a href="https://github.com/NITHESH2303"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/leetcode_logo_icon_145113.png" width="30"></a> LeetCode Stats
+## <a href="https://github.com/sanjaysiva23"></a> Geekforgeeks Stats
 <p align="center">
 	<a href="https://auth.geeksforgeeks.org/user/sanjayad20">
 	<a href="https://ibb.co/HrRByjh"><img src="https://i.ibb.co/Q6hpV4D/gfg.png" alt="gfg" border="0"></a>
+	</a>
+	<br/>
+</p>
+
+## <a href="https://github.com/sanjaysiva23"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/leetcode_logo_icon_145113.png" width="30"></a> Geekforgeeks Stats
+<p align="center">
+	<a href="https://leetcode.com/Sanjay_San/">
+	<a href="https://imgbb.com/"><img src="https://i.ibb.co/th6wmDx/leetcode.png" alt="leetcode" border="0"></a>
 	</a>
 	<br/>
 </p>
@@ -139,7 +147,7 @@ Hi, I'm Sanjay Siva!
 
 ## It's not perfect, isn't it?
 <p>
-<a href="https://github.com/NITHESH2303"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a><br/>
+<a href=""https://github.com/sanjaysiva23"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a><br/>
 “I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
 – Elon Musk
 </p>
