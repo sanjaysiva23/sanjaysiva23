@@ -6,10 +6,10 @@ Hi, I'm Sanjay Siva!
 </h1>
 <p align="center">
 	<a href="https://github.com/sanjaysiva23">
-		<img src="https://komarev.com/ghpvc/?username=NITHESH2303&label=Profile%20views&color=0e75b6&style=flat" alt="NITHESH2303" />
+		<img src="https://komarev.com/ghpvc/?username=NITHESH2303&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaysiva" />
 	</a>
 	<a href="https://github.com/sanjaysiva23">
-		<img src="https://img.shields.io/github/followers/NITHESH2303?label=Followers" alt="NITHESH2303" />
+		<img src="https://img.shields.io/github/followers/NITHESH2303?label=Followers" alt="sanjaysiva" />
 	</a>
 </p>
 <p align="center">
