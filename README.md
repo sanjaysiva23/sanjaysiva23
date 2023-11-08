@@ -126,19 +126,12 @@ Hi, I'm Sanjay Siva!
 </p>
 <br/>
 
-## <a href="https://github.com/NITHESH2303"><img src="https://github.com/dailydotdev/daily/raw/master/assets/Logo%20-%20Black%20(1).jpg" width="30"></a> DevCard
-<p align="center>
-	<a href="https://app.daily.dev/nitheshkannas">
-	<img src="https://github.com/nithesh2303/nithesh2303/blob/main/devcard.svg" width="400" alt="Nithesh Kanna's Dev Card"/>
- 	</a>
-  	<br/>
-</p>
 <br/>
 
 ## <a href="https://github.com/NITHESH2303"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/leetcode_logo_icon_145113.png" width="30"></a> LeetCode Stats
 <p align="center">
-	<a href="https://leetcode.com/NITHESH_23/">
-	<img src="https://leetcard.jacoblin.cool/NITHESH_23?theme=dark&font=Faustina" alt="NITHESH_23">
+	<a href="https://auth.geeksforgeeks.org/user/sanjayad20">
+	<img src="https://ibb.co/HrRByjh">
 	</a>
 	<br/>
 </p>
