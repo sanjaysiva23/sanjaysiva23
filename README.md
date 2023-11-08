@@ -14,7 +14,7 @@ Hi, I'm Sanjay Siva!
 </p>
 <p align="center">
 	<a href="https://github.com/NITHESH2303">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Student;Communication%20Eng.%20Student;Passionate%20Programmer;MERN%20Stack%20Enthusiastic;Always%20Crafting%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=FullStack+Development;Communication%20Eng.%20Student;Passionate%20Programmer;MERN%20Stack%20Enthusiastic;Always%20Crafting%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 <p>
