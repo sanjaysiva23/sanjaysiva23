@@ -131,7 +131,7 @@ Hi, I'm Sanjay Siva!
 ## <a href="https://github.com/NITHESH2303"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/leetcode_logo_icon_145113.png" width="30"></a> LeetCode Stats
 <p align="center">
 	<a href="https://auth.geeksforgeeks.org/user/sanjayad20">
-	<img src="https://ibb.co/HrRByjh">
+	<a href="https://ibb.co/HrRByjh"><img src="https://i.ibb.co/Q6hpV4D/gfg.png" alt="gfg" border="0"></a>
 	</a>
 	<br/>
 </p>
